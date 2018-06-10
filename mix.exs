@@ -36,7 +36,7 @@ defmodule Rox.Mixfile do
       {:ex_doc, ">= 0.0.0", only: :dev},
       {:benchfella, "~> 0.3", only: :dev},
       {:faker, "~> 0.7", only: :dev},
-      {:flow, "~> 0.11", only: :dev},
+      {:flow, "~> 0.13", only: :dev},
       {:gen_stage, "~> 0.11", only: :dev},
       {:dialyxir, "~> 0.5", only: :dev},
     ]
